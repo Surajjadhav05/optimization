@@ -1,3 +1,4 @@
 ortools==9.3.10459
+protobuf<3.20
 pandas<1.5.0
 streamlit<1.13.0
